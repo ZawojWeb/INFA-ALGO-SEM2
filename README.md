@@ -1,5 +1,5 @@
 # ProjectsForStudy
- Project in java for my classes on Tech Univeristy
+ Project in Java for my classes on Tech Univeristy
  
  ## Projects:
  
